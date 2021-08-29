@@ -1,4 +1,4 @@
-### Well hello there 👋
+### 👋 &nbsp; Well hello there
 
 - 📚 &nbsp; Studying Computer Science at the University of Utah
 - 💻 &nbsp; Passionate as an iOS Developer, interested in literally everything
