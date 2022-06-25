@@ -1,6 +1,6 @@
 ### 👋 &nbsp; Well hello there
 
-- 📚 &nbsp; Studying Computer Science at the University of Utah
+- 📚 &nbsp; tbh I don't really know what I'm doing, but I'm sure I'll figure it out
 - 💻 &nbsp; Passionate as an iOS Developer, interested in everything
 - 📝 &nbsp; Check me out at [ethanpippin.com](https://ethanpippin.com) and on [LinkedIn](https://www.linkedin.com/in/ethan-pippin-b0754a164/)
 
