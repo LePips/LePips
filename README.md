@@ -1,6 +1,6 @@
 ### 👋 &nbsp; Well hello there
 
-- 📚 &nbsp; tbh I don't really know what I'm doing, but I'm sure I'll figure it out
+- 📚 &nbsp; Thinking [functionally](https://en.wikipedia.org/wiki/Functional_programming)
 - 💻 &nbsp; Passionate as a Swift Developer, interested in everything
 - 📝 &nbsp; Learn more about me on [LinkedIn](https://www.linkedin.com/in/ethan-pippin-b0754a164/)
 
