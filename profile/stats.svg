@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ethan Pippin's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Commits  : 1082, Total PRs: 323, Total Issues: 144, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Commits  : 1675, Total PRs: 323, Total Issues: 144, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 53.208574694764486;
+        stroke-dashoffset: 46.53971026409687;
       }
     }
   
@@ -158,7 +158,7 @@
         x="199.01"
         y="12.5"
         data-testid="commits"
-      >1.1k</text>
+      >1.7k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
